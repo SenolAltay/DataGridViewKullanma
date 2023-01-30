@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataGridViewKullanimi", "DataGridViewKullanimi\DataGridViewKullanimi.csproj", "{D2964B8F-A931-4158-BD41-79AC20A0840B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChecBoxKullanimiAdoNetOrnek", "ChecBoxKullanimiAdoNetOrnek\ChecBoxKullanimiAdoNetOrnek.csproj", "{1876501D-0793-4165-94FB-ED8FE42D6C0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2964B8F-A931-4158-BD41-79AC20A0840B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2964B8F-A931-4158-BD41-79AC20A0840B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2964B8F-A931-4158-BD41-79AC20A0840B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2964B8F-A931-4158-BD41-79AC20A0840B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1876501D-0793-4165-94FB-ED8FE42D6C0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1876501D-0793-4165-94FB-ED8FE42D6C0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1876501D-0793-4165-94FB-ED8FE42D6C0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1876501D-0793-4165-94FB-ED8FE42D6C0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {744D8D5C-9735-4CAC-AF74-32676B05A139}
+	EndGlobalSection
+EndGlobal

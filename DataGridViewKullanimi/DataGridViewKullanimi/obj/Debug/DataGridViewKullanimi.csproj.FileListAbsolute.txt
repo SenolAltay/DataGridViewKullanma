@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\DataGridViewKullanimi\DataGridViewKullanimi\bin\Debug\DataGridViewKullanimi.exe.config
+C:\Users\PC\source\repos\DataGridViewKullanimi\DataGridViewKullanimi\bin\Debug\DataGridViewKullanimi.exe
+C:\Users\PC\source\repos\DataGridViewKullanimi\DataGridViewKullanimi\bin\Debug\DataGridViewKullanimi.pdb
+C:\Users\PC\source\repos\DataGridViewKullanimi\DataGridViewKullanimi\obj\Debug\DataGridViewKullanimi.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\DataGridViewKullanimi\DataGridViewKullanimi\obj\Debug\DataGridViewKullanimi.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\source\repos\DataGridViewKullanimi\DataGridViewKullanimi\obj\Debug\DataGridViewKullanimi.Form1.resources
+C:\Users\PC\source\repos\DataGridViewKullanimi\DataGridViewKullanimi\obj\Debug\DataGridViewKullanimi.Properties.Resources.resources
+C:\Users\PC\source\repos\DataGridViewKullanimi\DataGridViewKullanimi\obj\Debug\DataGridViewKullanimi.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\DataGridViewKullanimi\DataGridViewKullanimi\obj\Debug\DataGridViewKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\DataGridViewKullanimi\DataGridViewKullanimi\obj\Debug\DataGridViewKullanimi.exe
+C:\Users\PC\source\repos\DataGridViewKullanimi\DataGridViewKullanimi\obj\Debug\DataGridViewKullanimi.pdb

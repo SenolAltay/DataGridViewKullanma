@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\DataGridViewKullanimi\ChecBoxKullanimiAdoNetOrnek\bin\Debug\ChecBoxKullanimiAdoNetOrnek.exe.config
+C:\Users\PC\source\repos\DataGridViewKullanimi\ChecBoxKullanimiAdoNetOrnek\bin\Debug\ChecBoxKullanimiAdoNetOrnek.exe
+C:\Users\PC\source\repos\DataGridViewKullanimi\ChecBoxKullanimiAdoNetOrnek\bin\Debug\ChecBoxKullanimiAdoNetOrnek.pdb
+C:\Users\PC\source\repos\DataGridViewKullanimi\ChecBoxKullanimiAdoNetOrnek\obj\Debug\ChecBoxKullanimiAdoNetOrnek.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\DataGridViewKullanimi\ChecBoxKullanimiAdoNetOrnek\obj\Debug\ChecBoxKullanimiAdoNetOrnek.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\source\repos\DataGridViewKullanimi\ChecBoxKullanimiAdoNetOrnek\obj\Debug\ChecBoxKullanimiAdoNetOrnek.Form1.resources
+C:\Users\PC\source\repos\DataGridViewKullanimi\ChecBoxKullanimiAdoNetOrnek\obj\Debug\ChecBoxKullanimiAdoNetOrnek.Properties.Resources.resources
+C:\Users\PC\source\repos\DataGridViewKullanimi\ChecBoxKullanimiAdoNetOrnek\obj\Debug\ChecBoxKullanimiAdoNetOrnek.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\DataGridViewKullanimi\ChecBoxKullanimiAdoNetOrnek\obj\Debug\ChecBoxKullanimiAdoNetOrnek.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\DataGridViewKullanimi\ChecBoxKullanimiAdoNetOrnek\obj\Debug\ChecBoxKullanimiAdoNetOrnek.exe
+C:\Users\PC\source\repos\DataGridViewKullanimi\ChecBoxKullanimiAdoNetOrnek\obj\Debug\ChecBoxKullanimiAdoNetOrnek.pdb
